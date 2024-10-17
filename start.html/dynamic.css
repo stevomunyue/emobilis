@@ -1,0 +1,24 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+background-color: aqua;
+padding: 20px;
+}
+h2{
+    columns: black;
+
+}
+button{
+    background-color: aquamarine;
+    color: antiquewhite;
+    padding: 10px 20px;
+    border:2px;
+    border-radius: 5px;
+
+
+}
+button:hover{
+    background-color: brown;
+    border: 5px;
+    margin: 10px;
+}

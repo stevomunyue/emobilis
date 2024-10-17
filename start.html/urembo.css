@@ -1,0 +1,13 @@
+ul{
+    margin: 0%;
+    list-style-type: none;
+    float: left;
+    background-color: chartreuse;
+    overflow: hidden;
+    text-decoration: none;
+}
+li a{
+    font-display: black;
+    text-decoration: none;
+
+}

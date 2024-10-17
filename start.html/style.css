@@ -1,0 +1,11 @@
+h2{
+    color: brown;
+}
+th,td{
+    border: 2px sandybrown;
+    padding: 10px;
+}
+table{
+    width: 100%;
+    border-color: aqua;
+}
